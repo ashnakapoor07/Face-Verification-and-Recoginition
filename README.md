@@ -19,7 +19,7 @@ Test Image
 
 Result
 
-<img src="https://github.com/ashnakapoor07/Face-Verification-and-Recoginition/blob/master/notashna.jpg">
+<img src="https://github.com/ashnakapoor07/Face-Verification-and-Recoginition/blob/master/notashna.png">
 
 
 For Face Recoginition:-
