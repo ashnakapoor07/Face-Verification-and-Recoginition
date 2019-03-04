@@ -1,6 +1,6 @@
 # Face-Verification-and-Recoginition
-This is a programming assignment from Deep Learning Specialization on Coursera
-I have further trained the model to verify and recognize real_time images.
+This is a programming assignment from Deep Learning Specialization on Coursera.<br>
+I have further trained the model to verify and recognize real_time images.<br>
 For Face Verification:-
 <br>
 Only allow users whose faces have been saved in database are allowed to enter the happy house.The function verify accepts image path and identity as saved in database as its arguements.
@@ -11,11 +11,11 @@ Test Image
 
 Result
 
-<img src="https://github.com/ashnakapoor07/Face-Verification-and-Recoginition/blob/master/faceverification.jpg">
+<img src="https://github.com/ashnakapoor07/Face-Verification-and-Recoginition/blob/master/faceverification.png">
 
 For Face Recoginition:-
 <br>
-A random image captured by the camera is fed to be recognized by the model
+A random image captured by the camera is fed to be recognized by the model.<br>
 
 Test Image
 
